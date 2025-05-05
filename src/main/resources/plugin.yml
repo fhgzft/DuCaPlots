@@ -1,0 +1,10 @@
+name: DuCaPlots
+version: 1.0
+main: me.dustin.ducaplots.DuCaPlots
+api-version: 1.13
+author: Dustin
+description: Ein eigenes Plot-Plugin mit Plot-Welt und Plot-Merge.
+commands:
+  p:
+    description: Hauptbefehl für DuCaPlots
+    usage: /p <subcommand>
